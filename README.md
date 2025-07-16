@@ -1,5 +1,7 @@
 # IMMBA: Integrated Mixed Models with Bootstrap Analysis for Robust LLM Evaluation
 
+**Di Oliveira, V., Brom, P.C., & Weigang, L. (2025). IMMBA: Integrated Mixed Models with Bootstrap Analysis — A Statistical Framework for Robust LLM Evaluation**
+
 ## Overview
 
 IMMBA is a statistically rigorous framework engineered for the robust evaluation of Large Language Models (LLMs). It synergistically integrates Linear Mixed Models (LMMs) with bootstrap resampling techniques to decompose the variability observed in LLM outputs into fixed effects, such as model configurations, decoding parameters, and retrieval methods and random effects (including prompt phrasing). This approach facilitates a nuanced and interpretable performance analysis.
